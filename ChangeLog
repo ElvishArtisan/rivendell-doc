@@ -1,0 +1,106 @@
+2005-10-07 Fred Gleason <fredg@salemradiolabs.com>
+	* Initial archive creation.
+2005-10-07 Fred Gleason <fredg@salemradiolabs.com>
+	* Added an outline for the Rivendell Operations Guide in
+	'rog-outline.odt'.
+	* Added the Rivendell Operations Guide Chapter One in
+	'rog-chap01.odt'.
+	* Added the Rivendell Operations Guide Chapter Two in
+	'rog-outline.odt'.
+2005-10-10 Fred Gleason <fredg@salemradiolabs.com>
+	* Completed Chapter Two.
+2005-10-11 Fred Gleason <fredg@salemradiolabs.com>
+	* Added Chapter Three
+2005-10-11 Fred Gleason <fredg@salemradiolabs.com>
+	* Added sections 3.0 and 3.1 to 'rog-chap03.odt'.
+2005-10-12 Fred Gleason <fredg@salemradiolabs.com>
+	* Added section 3.1.0 to 'rog-chap03.odt'.
+2005-10-13 Fred Gleason <fredg@salemradiolabs.com>
+	* Added sections 3.1.1 and 3.1.2 to 'rog-chap03.odt'.
+2005-10-13 Fred Gleason <fredg@salemradiolabs.com>
+	* Added to section 3.1.2 in 'rog-chap03.odt'.
+2005-10-14 Fred Gleason <fredg@salemradiolabs.com>
+	* Added sections 3.1.3 and 3.2 to 'rog-chap03.odt'.
+2005-11-28 Fred Gleason <fredg@salemradiolabs.com>
+	* Added section 3.3.
+2005-11-28 Fred Gleason <fredg@salemradiolabs.com>
+	* Added sections 3.4, 2.5, 3.6 and 3.7 to 'rog-chap03.odt'.
+2005-11-28 Fred Gleason <fredg@salemradiolabs.com>
+	* Combined 'rog-chap01.odt', 'rog-chap02.odt' and 'rog-chap03.odt
+	into 'rog-all.odt'.
+2005-11-29 Fred Gleason <fredg@salemradiolabs.com>
+	* Updated 'rog-all.odt' and released as version 0.9.61.
+2006-07-19 Fred Gleason <fredg@salemradiolabs.com>
+	* Added Sections 4.0 through 4.2 to 'rog-all.odt'.
+2006-09-15 Fred Gleason <fredg@salemradiolabs.com>
+	* Finished Chapter 4 in 'rog-all.odt'.
+2006-09-18 Fred Gleason <fredg@salemradiolabs.com>
+	* Updated the table of contents for Chapter 4.
+2006-09-18 Fred Gleason <fredg@salemradiolabs.com>
+	* Began work on Chapter 5 in 'rog-all.odt'.
+2006-09-18 Fred Gleason <fredg@salemradiolabs.com>
+	* More work on Chapter 5 in 'rog-all.odt'.
+2006-09-19 Fred Gleason <fredg@salemradiolabs.com>
+	* Completed Chapter 5 in 'rog-all.odt'.
+2006-09-19 Fred Gleason <fredg@salemradiolabs.com>
+	* Updated the table of contents for Chapter 5.
+2006-09-19 Fred Gleason <fredg@salemradiolabs.com>
+	* Started work on Chapter 6 in 'rog-all.odt'.
+2006-09-20 Fred Gleason <fredg@salemradiolabs.com>
+	* Completed Chapter 6 in 'rog-all.odt'.
+	* Added a Chapter 2 in 'rog-all.odt'.
+2006-09-20 Fred Gleason <fredg@salemradiolabs.com>
+	* Started Chapter 8 in 'rog-all.odt'.
+2006-09-26 Fred Gleason <fredg@salemradiolabs.com>
+	* Completed Chapter 8 in 'rog-all.odt'.
+2006-09-26 Fred Gleason <fredg@salemradiolabs.com>
+	* Added a Chapter 9 in 'rog-all.odt'.
+2006-09-26 Fred Gleason <fredg@salemradiolabs.com>
+	* Added a Chapter 10 in 'rog-all.odt'.
+	* Added an RML Command Index in section 9.2.
+2006-09-27 Fred Gleason <fredg@salemradiolabs.com>
+	* Removed a redundant screenshot in 'rog-all.odt'.
+2006-09-27 Fred Gleason <fredg@salemradiolabs.com>
+	* Added a cover sheet in 'rog-cover.odt'.
+2006-09-27 Fred Gleason <fredg@salemradiolabs.com>
+	* Added a spine label in 'rog-spine.odt'.
+2006-10-10 Robert Orr <orrrobert@gmail.com>
+	* Fixed various typos in 'rog-all.odt'.
+2006-10-10 Fred Gleason <fredg@salemradiolabs.com>
+	* Added the title page from 'rog-cover.odt' to 'rog-all.odt'
+	* Added a Change History section to 'rog-all.odt'.
+	* Released as version 0.9.1.
+2006-10-10 Fred Gleason <fredg@salemradiolabs.com>
+	* Added the <skip-meta> parameter to the Start Next [PN] RML in
+	'rog-all.odt'.
+2006-10-18 Fred Gleason <fredg@salemradiolabs.com>
+	* Added the RefreshLog [RL] RML in 'rog-all.odt'.
+2006-10-20 Fred Gleason <fredg@salemradiolabs.com>
+	* Added the Toggle On Air Flag [TA] RML in 'rog-all.odt'.
+2006-11-22 Fred Gleason <fredg@salemradiolabs.com>
+	* Updated the screen shots in Chapters 1 through 3 of
+	'rog-all.odt'.
+2006-11-28 Fred Gleason <fredg@salemradiolabs.com>
+	* Updated 'rog-all.odt' for Rivendell v0.9.76.
+2008-04-18 10:15 EDT Federico Grau <grauf@rfa.org> <donfede@casagrau.org> 
+	* rog-all.odt: section 4.5, table 5, corrected month and minute codes.
+	Thanks to Michael Barnes <mbarnes@srnradio.com> for spotting this.
+2008-10-23 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'Start Record Deck' [RS] and 'Stop Record Deck' [RR] RMLs.
+	* Added the '--metadata-pattern' switch and wildcards.
+	* Incremented the version to 1.1.0-1.
+2009-03-18 Fred Gleason <fredg@paravelsystems.com>
+	* Added the 'Message Box' ['MB'] RML.
+2011-02-07 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'rog.spec'.
+2011-11-01 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'Connect JACK Ports' ['JC'] and 'Disconnect JACK Ports'
+	['JD'] RMLs in 'rog-all.odt'.
+2012-07-27 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'Label Button' ['PC'] RML in 'rog-all.odt'.
+2012-12-26 Fred Gleason <fredg@paravelsystems.com>
+	* Stubbed out a chapter for RDCartSlots in 'rog-all.odt'.
+2014-05-22 Fred Gleason <fredg@paravelsystems.com>
+	* Add 'Append Log' ['AL'] RML.
+2014-06-19 Fred Gleason <fredg@paravelsystems.com>
+	* Repaginated 'rog-all.odt'.
