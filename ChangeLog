@@ -106,3 +106,5 @@
 	* Repaginated 'rog-all.odt'.
 2015-08-29 Fred Gleason <fredg@paravelsystems.com>
 	* Reverted stubbed out RDCartSlots chapter.
+2015-08-29 Fred Gleason <fredg@paravelsystems.com>
+	* Incremented the version to 1.3.3
